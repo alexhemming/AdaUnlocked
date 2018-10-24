@@ -1,4 +1,4 @@
-# Draft README:
+# README:
 ## AdaUnlocked! 🔓
 
 ### 👋Hello world 🌍
