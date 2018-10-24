@@ -17,7 +17,7 @@ Example of an AdaUnlocked! game - https://adacollege.github.io/AdaUnlocked-Desig
 ### Milestone: Develop
 - [ ] Develop web app.
 - [ ] Develop takeaway resource.
-- [ ] Build 10 boxes with hasps.
+- [x] Build 10 boxes with hasps.
 - [x] Source 10 combination locks.
 - [x] Source 10 laptops.
 
